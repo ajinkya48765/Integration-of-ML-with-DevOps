@@ -2,10 +2,10 @@ import smtplib
 from email.mime.multipart import MIMEMultipart
 from email.mime.text import MIMEText
 host_address = "devmax70@gmail.com"
-host_pass = "********"
+host_pass = "a7875535259"
 guest_address = "devmax72@gmail.com"
 subject = "Report "
-content = '''hello ajinkya'''
+content = '''Hello, Developer this is an email regarding to your last commit. It seems that your code is not working properly please check it once and recommit.'''
 message = MIMEMultipart()
 message['From'] = host_address
 message['To'] = guest_address
