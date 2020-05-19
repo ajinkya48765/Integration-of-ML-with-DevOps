@@ -6,8 +6,7 @@ host_pass = "a7875535259"
 guest_address = "devmax72@gmail.com"
 subject = "Regarding failure of main.py"
 content = '''Hello, 
-				Developer this is an email regarding to your last commit.
-			It seems that your main.py is not working properly please check it once and recommit.
+				Developer this is an email regarding to your last commit. It seems that your main.py is not working properly please check it once and recommit.
 			THANK YOU'''
 message = MIMEMultipart()
 message['From'] = host_address
