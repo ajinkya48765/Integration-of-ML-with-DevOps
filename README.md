@@ -25,3 +25,9 @@ We are going going to build chain of jobs here in order to get desired accuracy 
 * Job 7 : This job is again failure notier but now it will notify on failure of rebuild.py file.
 
 * Job 8 : Job 8 will be monitoring job. It will keep an eye on running container. If it found container crashed it will immediately launch new container with same configuration.
+
+
+## for more details
+
+### chekout my article on LinkedIn
+[click here](https://www.linkedin.com/posts/ajinkya-khandave_machineabrlearning-devops-problemstatement-activity-6668678518643281920-EBHv)
