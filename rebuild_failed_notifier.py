@@ -2,7 +2,7 @@ import smtplib
 from email.mime.multipart import MIMEMultipart
 from email.mime.text import MIMEText
 host_address = "devmax70@gmail.com"
-host_pass = "a7875535259"
+host_pass = "*****"
 guest_address = "devmax72@gmail.com"
 subject = "Regarding failure of rebuild.py"
 content = '''Hello, 
